@@ -1,1 +1,1 @@
-# intellij-plugin-maven-check-versions
+# intellij-idea-maven-check-versions
